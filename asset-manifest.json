@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-taiyo/static/css/main.82305b51.css",
+    "main.js": "/my-taiyo/static/js/main.387ed8cc.js",
+    "static/js/787.76b7d314.chunk.js": "/my-taiyo/static/js/787.76b7d314.chunk.js",
+    "static/media/location-svgrepo-com.svg": "/my-taiyo/static/media/location-svgrepo-com.fe7ebee660d9307e9b83367f85d21b82.svg",
+    "index.html": "/my-taiyo/index.html",
+    "main.82305b51.css.map": "/my-taiyo/static/css/main.82305b51.css.map",
+    "main.387ed8cc.js.map": "/my-taiyo/static/js/main.387ed8cc.js.map",
+    "787.76b7d314.chunk.js.map": "/my-taiyo/static/js/787.76b7d314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82305b51.css",
+    "static/js/main.387ed8cc.js"
+  ]
+}
