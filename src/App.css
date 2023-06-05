@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 30px;
+}
+
+td,
+th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.btn {
+  cursor: pointer;
+  margin: 5px;
+}
+
+.leaflet-container {
+  height: 80vh;
+  width: 60vw  ;
+}
+
+@media screen and (max-width: 768px) {
+  .leaflet-container {
+    height: 80vh;
+    width: 100vw  ;
+  }
+}
